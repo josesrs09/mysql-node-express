@@ -1,0 +1,14 @@
+Fri, 12 Feb 2021 18:53:56 GMT | INFO | app.log | 🚀 Server running on port 3000! | 
+Fri, 12 Feb 2021 18:54:21 GMT | ERROR | app.log | Endpoint Not Found | 
+Fri, 12 Feb 2021 18:54:23 GMT | ERROR | app.log | Endpoint Not Found | 
+Fri, 12 Feb 2021 18:54:26 GMT | ERROR | app.log | Endpoint Not Found | 
+Fri, 12 Feb 2021 18:54:28 GMT | ERROR | app.log | Endpoint Not Found | 
+Fri, 12 Feb 2021 18:56:34 GMT | INFO | app.log | 🚀 Server running on port 3000! | 
+Fri, 12 Feb 2021 18:57:01 GMT | INFO | app.log | 🚀 Server running on port 3000! | 
+Fri, 12 Feb 2021 18:58:06 GMT | INFO | app.log | 🚀 Server running on port 3000! | 
+Fri, 12 Feb 2021 18:58:51 GMT | INFO | app.log | 🚀 Server running on port 3000! | 
+Fri, 12 Feb 2021 19:05:10 GMT | INFO | app.log | 🚀 Server running on port 3000! | 
+Fri, 12 Feb 2021 19:05:36 GMT | ERROR | app.log | Endpoint Not Found | 
+Fri, 12 Feb 2021 19:35:36 GMT | INFO | app.log | 🚀 Server running on port 3000! | 
+Fri, 12 Feb 2021 19:43:05 GMT | INFO | app.log | 🚀 Server running on port 3000! | 
+Fri, 12 Feb 2021 19:43:32 GMT | INFO | app.log | UserModel.create | data:{"email":"jose@gmail.com","password":"123456"} | 
