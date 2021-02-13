@@ -1,4 +1,4 @@
-# How to Build Rest API with NodeJs, Express and Mysql
+# How to Build Rest API with NodeJs, Express and Mysql, handle logs
 
 ### Tech
 
